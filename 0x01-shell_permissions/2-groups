@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u root groups
+groups $USER
